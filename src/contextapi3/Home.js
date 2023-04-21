@@ -5,7 +5,7 @@ export default function Home() {
    const userObj = useContext(myCon);
   return (
     <>
-      <h1>{userObj.Name}</h1>
+      <h1>{userObj.Name} Kumar</h1>
     </>
   )
 }
